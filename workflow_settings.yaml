@@ -1,0 +1,4 @@
+defaultProject: qwiklabs-gcp-04-63929ca90b4b
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.52
